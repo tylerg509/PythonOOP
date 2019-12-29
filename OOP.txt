@@ -1,0 +1,9 @@
+1) encapsulation
+#encapsulation refeers to the safe storage of data as attributes in an instance
+#data should only be accessed throug instance methods
+#data should be validated as correct depending on the requirements set in class methods
+#data should be safe from changes by external processes 
+
+#breaking encapsulation = setting value without setter method
+
+2)
