@@ -2,8 +2,8 @@
 2) variables defined in the class are available to the instance
 3) a method on an instance passes instance as the first argument to the method. within the method the first argument should be self
 4) instnaces have there own data = instance attributes (state)
-5)variables defined i nthe class are class attributes
-6)when we read an attribute pyhon looks for it first in the instance and then in the class
+5) variables defined i nthe class are class attributes
+6) when we read an attribute pyhon looks for it first in the instance and then in the class
 
 class = blueprint for an instance
 instance = constructed object of the class
