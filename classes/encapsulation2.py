@@ -13,7 +13,7 @@ class MyInteger(object):
 
 
 i = MyInteger()
-i.val = 'hi'
+i.val = 'hi' #this breaks encapsulation = if we would have used setval we could not have done this
 print (i.increment_val())
 
 #this throws an error
