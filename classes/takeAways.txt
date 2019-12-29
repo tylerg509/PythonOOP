@@ -1,0 +1,11 @@
+1) an instance of a class knows what class its from
+2) variables defined in the class are available to the instance
+3) a method on an instance passes instance as the first argument to the method. within the method the first argument should be self
+
+
+class = blueprint for an instance
+instance = constructed object of the class
+type = the class the instance belongs to 
+attribute = any object value = object.attribute
+method = a callable attribute defined in a class
+instnaces have theor own data = instance attributes (state)
