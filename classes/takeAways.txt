@@ -12,8 +12,3 @@ attribute = any object value = object.attribute
 method = a callable attribute defined in a class
 
 
-#__init__ is like another other method it can be inherited
-#if a class does not have __init__ constructor python will check its parent class to see if it can find one
-#as soon as it finds one python calls it and stops looking
-#we can use super() function to call methods in the parent class
-#we may want to initalize in the parent as well as our own classs
