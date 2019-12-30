@@ -13,8 +13,12 @@
     #this means that instances of an inheriting (child) class can access atttributes of the inherited (parent) class
 #inheritance is another level of attribute lookup: instance, then class, then inherited class, is the loopup pattern
 
-
-
+3) Polymorphism
+#two classes with same interface (method name)
+#two methods are often different but conceptually similar
+#allows for expressiveness in design. we can say that this group of related classes implement the same action
+#duck typing refers to reading an objects attributes to decide whether it is of a proper type rather than checking the type itself
+    #it walks and talks like a duck so we will just call methods on it instead of checking whether its possible
 
 
 
