@@ -10,3 +10,6 @@ instance = constructed object of the class
 type = the class the instance belongs to 
 attribute = any object value = object.attribute
 method = a callable attribute defined in a class
+
+
+Inheritance terms
