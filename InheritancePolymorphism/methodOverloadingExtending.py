@@ -21,8 +21,9 @@ class GetSetInt(GetSetParent):
         #if value is not int set to 0
         if not isinstance(value, int):
             value = 0
-        #look for super class and pass value to set val
-        #called specializing 
+        #look for super class and pass value to set val. pass instance of argument
+        #called specializing
+        #specializing = set value using parent class after doing certain actions in the getsetint class
         super(GetSetInt, self).set_val(value)
     def showdoc(self):
         print('getsetint object ({0}), only accepts '
