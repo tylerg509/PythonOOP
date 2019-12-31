@@ -4,3 +4,5 @@
 #we can use super() function to call methods in the parent class
 #we may want to initalize in the parent as well as our own classs
 
+#class methods = if only useing class attribute
+#static method if writing a utility method that does not need the instance
