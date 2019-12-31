@@ -35,4 +35,10 @@ Inheritance terms
     base class
     superclass
 
+Inheritance: Implement Parent Class
+ways to implement a parent classs
+inherit: use parent class defined method
+override/overload: provide childs own version of a metehod
+extend: do work in addition to parents method
+provide: implement abstract method that parent requires
 
