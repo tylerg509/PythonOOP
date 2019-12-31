@@ -6,3 +6,7 @@
 
 #class methods = if only useing class attribute
 #static method if writing a utility method that does not need the instance
+
+#abstract classs is a kind of model for other classes to be defined
+# it is not designed to construct instance but can be subclassed by regular classes
+# use the abc module to enable creation of abstract base classes
