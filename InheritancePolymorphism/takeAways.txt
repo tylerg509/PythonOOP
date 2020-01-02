@@ -10,3 +10,8 @@
 #abstract classs is a kind of model for other classes to be defined
 # it is not designed to construct instance but can be subclassed by regular classes
 # use the abc module to enable creation of abstract base classes
+
+#inheritance can be brittle
+#doucoupled code is classess functions that work independetly and dont depend on eachother
+#as long as the interface is maintained interactions between classes will work
+#not checking or requiring particular types is polymorphic and pythonic 
