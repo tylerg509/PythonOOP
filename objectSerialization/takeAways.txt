@@ -1,0 +1,3 @@
+#serialization = persistent storage
+#relational storage writes data to tables
+#object based storage stores objects as they are used in code
